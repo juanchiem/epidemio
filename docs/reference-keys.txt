@@ -7,10 +7,10 @@ epicrop
 predict-bacterial-blight---wet-season
 predict-leaf-blast---wet-season
 comparando-epidemias
+hands-on-with-epicrop
 exercise-1
 exercise-2
 exercise-3
 exercise-4
 calculating-audpc
 exercise-5
-hands-on-with-epicrop
