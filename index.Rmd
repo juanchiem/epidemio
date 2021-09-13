@@ -1,5 +1,5 @@
 ---
-title: "Fitopatometría en R"
+title: "Epidemiologia de enfermedades de cultivos"
 author: "[Juan Edwards](https://github.com/juanchiem)"
 site: bookdown::bookdown_site
 link-citations: true
@@ -17,28 +17,20 @@ opts_chunk$set(echo = TRUE,
 options(width = 90)
 ```
 
-* Objetivos
+**Objetivos**
 
-Familiarizar al alumno con las herramientas (paquetes) del software R para diferentes análisis de epidemias de enfermedades de cultivos agrícolas. 
+Familiarizar al alumnado con herramientas del software R para diferentes técnicasd de modelado de epidemias de enfermedades de cultivos agrícolas. 
 
-* Destinatarios 
+**Destinatarios** 
 
-Ingenieros agrónomos, Licenciados en Biotecnología o Licenciados en Biología que demuestren conocimientos previos sobre uso y manejo de R y sobre conceptos básicos de Fitopatología.  
+Fitopatólogos, con previos conocimientos sobre manipaulación de datos fitopatométricos en R.  
 
-* Motivación
+**Motivación**
 
->“Our ability to understand a phenomenon is proportional to our ability to measure it”
-> `r tufte::quote_footer('--- Lord Kelvin (1824-1907)')`
+*Las epidemias son potentes armas en la “guerra” contra quién nos enfrentamos año tras año por mantener la sanidad de nuestros cultivos. La industria química y de semillas nos proveen buenas tácticas de defensa pero solo la epidemiología nos permite planear la estrategia. 
+Nuestra defensa en tiempos de guerra está relacionada al tratamiento que damos a nuestros cultivos en tiempos de paz.*
 
->“How can plant pathologists apply advanced statistical procedures or develop quantitative models based upon disease assessment data of unknown accuracy and precision?”
-> `r tufte::quote_footer('--- David Mackenzie, 1979')`
+> `r tufte::quote_footer('--- J.E. Vanderplank, Sudáfrica, 1963')`
 
->“Without quantification of disease, no studies in epidemiology, no 
-assessment of crop losses, and no plant disease surveys and 
-their applications would be possible”
-> `r tufte::quote_footer('--- Kranz, 1988')`
-
-> “The cornerstone of epidemic analysis”
-> `r tufte::quote_footer('--- Campbell and Neher, 1994')`
-
-![](fig/cornerstone.png)
+![](fig/vdp.jpg)
+* Fuente: [Open Plant Pathology](https://openplantpathology.org/posts/2021-03-15-vanderplank-contributing-an-epidemic-proportion-to-plant-health/)

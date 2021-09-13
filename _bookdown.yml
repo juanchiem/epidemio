@@ -1,15 +1,14 @@
-book_filename: "Fitopatometría"
+book_filename: "Epidemio"
 output_dir: "docs"
 new_session: false
 delete_merged_file: true
 
 rmd_files: [
   "index.Rmd",
-  "0-data.Rmd",
-  "1_1-metricas_basicas.Rmd",
-  "1_2-dsi.Rmd",
-  "1_3-auc.Rmd",
-  "1_4-inductoras_de_senescencia.Rmd",
-  "2_1-pliman.Rmd",
-  "2_2-sad.Rmd"  
+  # "0-data.Rmd",
+  "1_1-comparar_curvas.Rmd",
+  "1_2-logistico_aplicado.Rmd",
+  "1_3-epifitter.Rmd",
+  "2_1-epicrop.Rmd",
+  "2_2-epicrop_ej.Rmd"
   ]
